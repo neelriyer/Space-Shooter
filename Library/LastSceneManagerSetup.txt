@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Main_Flight_Scene.unity
+  isLoaded: 1
+  isActive: 1
