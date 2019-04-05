@@ -1,5 +1,7 @@
 # Space-Shooter
 
+Availiable here: https://play.google.com/store/apps/details?id=com.unity3d.MobileDemotest
+
 Avoid the planets and get the stars! Touch to move up and get the highest score!
 
 # What I learnt
