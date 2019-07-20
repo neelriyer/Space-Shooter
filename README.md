@@ -12,5 +12,4 @@ Avoid the planets and get the stars! Touch to move up and get the highest score!
 
 # Demo
 
-(loading...)
 ![Space-Shooter](ezgif-3-8515bc9d90d3.gif)
